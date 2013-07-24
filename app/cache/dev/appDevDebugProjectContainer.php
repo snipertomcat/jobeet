@@ -3300,7 +3300,7 @@ class appDevDebugProjectContainer extends Container
             'kernel.root_dir' => 'C:/xampp/htdocs/test/jobeet/app',
             'kernel.environment' => 'dev',
             'kernel.debug' => true,
-            'kernel.name' => 'ap_',
+            'kernel.name' => 'app',
             'kernel.cache_dir' => 'C:/xampp/htdocs/test/jobeet/app/cache/dev',
             'kernel.logs_dir' => 'C:/xampp/htdocs/test/jobeet/app/logs',
             'kernel.bundles' => array(
