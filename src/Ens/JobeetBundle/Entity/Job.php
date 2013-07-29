@@ -95,6 +95,8 @@ class Job
      */
     private $category;
 
+    public $file;
+
 
     /**
      * Get id
@@ -504,5 +506,15 @@ class Job
     public function getLocationSlug()
     {
         return Jobeet::slugify($this->getLocation());
+    }
+
+    public function getTypes()
+    {
+        return array('full-time' => 'Full Time', 'part-time' => 'Part Time', 'freelance' => 'Freelance');
+    }
+
+    public static function getTypeValues()
+    {
+        return array_keys(self::getTypes());
     }
 }

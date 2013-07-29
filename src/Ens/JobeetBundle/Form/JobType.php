@@ -28,6 +28,11 @@ class JobType extends AbstractType
             'choices' => Job::getTypes(),
             'expanded' => true
         ));
+
+        $builder->add('file', 'file', array(
+            'label' => 'Company Logo',
+            'required' => false
+        ));
     }
 
     public function getName()
