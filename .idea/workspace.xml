@@ -4,7 +4,7 @@
     <list default="true" id="18951dba-e759-4c28-896f-ac408c987a76" name="Default" comment="" />
     <ignored path="jobeet.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/parameters.yml" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374610638740" ignored="false" />
+    <file path="/parameters.yml" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375213897724" ignored="false" />
     <file path="/Category.orm.yml" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374610861656" ignored="false" />
     <file path="/Job.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375119563202" ignored="false" />
     <file path="/Affiliate.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374611101163" ignored="false" />
@@ -21,16 +21,16 @@
     <file path="/Category.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374614764794" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Data/PermissionData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375207527090" ignored="false" />
     <file path="/PermissionData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375207524853" ignored="false" />
-    <file path="/a.dummy" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375115557438" ignored="false" />
+    <file path="/a.dummy" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375222182678" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Controller/AdminRooftopController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375112450705" ignored="false" />
     <file path="/AdminRooftopController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374950743742" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Controller/RooftopDashboardController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375114998606" ignored="false" />
-    <file path="/RooftopDashboardController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375114997190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Controller/RooftopDashboardController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375231712368" ignored="false" />
+    <file path="/RooftopDashboardController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375230791231" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/dashboard/dashboard_index.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375112450705" ignored="false" />
-    <file path="/dashboard_index.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374958542358" ignored="false" />
+    <file path="/dashboard_index.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375233770283" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/modal/confirm_user_delete.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374954146147" ignored="false" />
     <file path="/confirm_user_delete.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374954146147" ignored="false" />
-    <file path="/Dummy.txt" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375117037546" ignored="false" />
+    <file path="/Dummy.txt" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375223493556" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/web/js/dashboard.js" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375114711707" ignored="false" />
     <file path="/dashboard.js" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374957600874" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/config/routes.yml" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375115537182" ignored="false" />
@@ -48,19 +48,37 @@
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Data/UserData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375112450705" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Logic/PermissionLogic.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375200571316" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Controller/ReviewController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375115401157" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Data/ReviewData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375114617019" ignored="false" />
-    <file path="/ReviewData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375114617019" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Data/ReviewData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375230531571" ignored="false" />
+    <file path="/ReviewData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375230432717" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/do_review_resolve.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375112840032" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/display_review_resolve.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375114055260" ignored="false" />
     <file path="/rooftop_read.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375115599305" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/rooftop_read.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375115599305" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Data/RooftopData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375115774092" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/rooftop_read.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375234584937" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Data/RooftopData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375222303972" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/cache/53/dc/1ef74d4efa64d6b939eef8568b23.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375117492869" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Controller/RooftopController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375202659956" ignored="false" />
-    <file path="/RooftopController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375202654147" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Controller/RooftopController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375217092539" ignored="false" />
+    <file path="/RooftopController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375217090966" ignored="false" />
     <file path="/PermissionLogic.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375200570053" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/rooftop_read_about.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375207240429" ignored="false" />
     <file path="/rooftop_read_about.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375207102955" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/config/parameters.yml" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375219766918" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375234073391" ignored="false" />
+    <file path="/RooftopData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375222303279" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/rooftop_read_offers.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375222586103" ignored="false" />
+    <file path="/rooftop_read_offers.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375222524340" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/image_manage.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375219564436" ignored="false" />
+    <file path="/image_manage.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375219562079" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_plugin.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375234215550" ignored="false" />
+    <file path="/dashboard_index_plugin.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375234010916" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_user.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375227105163" ignored="false" />
+    <file path="/dashboard_index_user.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375227226434" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_users.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375227226434" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_activitystream.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375234720760" ignored="false" />
+    <file path="/dashboard_index_activitystream.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375234172255" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_reporting.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375233673333" ignored="false" />
+    <file path="/dashboard_index_reporting.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375233672535" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_config.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375233337594" ignored="false" />
+    <file path="/dashboard_index_config.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375233329089" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -606,7 +624,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3043478" sideWeight="0.7550694" order="7" side_tool="false" content_ui="tabs" x="338" y="774" width="937" height="264" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19423692" sideWeight="0.6722408" order="3" side_tool="false" content_ui="tabs" />
