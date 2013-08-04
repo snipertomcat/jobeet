@@ -4,7 +4,7 @@
     <list default="true" id="18951dba-e759-4c28-896f-ac408c987a76" name="Default" comment="" />
     <ignored path="jobeet.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/parameters.yml" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374610638740" ignored="false" />
+    <file path="/parameters.yml" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375213897724" ignored="false" />
     <file path="/Category.orm.yml" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374610861656" ignored="false" />
     <file path="/Job.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375119563202" ignored="false" />
     <file path="/Affiliate.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374611101163" ignored="false" />
@@ -19,18 +19,18 @@
     <file path="$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/FixtureInterface.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374614338316" ignored="false" />
     <file path="/routing.yml" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374614716944" ignored="false" />
     <file path="/Category.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374614764794" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Data/PermissionData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375112450705" ignored="false" />
-    <file path="/PermissionData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374950649082" ignored="false" />
-    <file path="/a.dummy" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375115557438" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Data/PermissionData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375207527090" ignored="false" />
+    <file path="/PermissionData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375207524853" ignored="false" />
+    <file path="/a.dummy" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375222182678" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Controller/AdminRooftopController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375112450705" ignored="false" />
     <file path="/AdminRooftopController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374950743742" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Controller/RooftopDashboardController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375114998606" ignored="false" />
-    <file path="/RooftopDashboardController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375114997190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Controller/RooftopDashboardController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375231712368" ignored="false" />
+    <file path="/RooftopDashboardController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375230791231" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/dashboard/dashboard_index.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375112450705" ignored="false" />
-    <file path="/dashboard_index.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374958542358" ignored="false" />
+    <file path="/dashboard_index.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375233770283" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/modal/confirm_user_delete.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374954146147" ignored="false" />
     <file path="/confirm_user_delete.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374954146147" ignored="false" />
-    <file path="/Dummy.txt" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375117037546" ignored="false" />
+    <file path="/Dummy.txt" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375223493556" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/web/js/dashboard.js" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375114711707" ignored="false" />
     <file path="/dashboard.js" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1374957600874" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/config/routes.yml" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375115537182" ignored="false" />
@@ -46,16 +46,39 @@
     <file path="/JobType.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375119616554" ignored="false" />
     <file path="/validation.yml" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375119649371" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Data/UserData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375112450705" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Logic/PermissionLogic.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375112450705" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Logic/PermissionLogic.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375200571316" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Controller/ReviewController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375115401157" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Data/ReviewData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375114617019" ignored="false" />
-    <file path="/ReviewData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375114617019" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Data/ReviewData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375230531571" ignored="false" />
+    <file path="/ReviewData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375230432717" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/do_review_resolve.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375112840032" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/display_review_resolve.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375114055260" ignored="false" />
     <file path="/rooftop_read.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375115599305" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/rooftop_read.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375115599305" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Data/RooftopData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375115774092" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/rooftop_read.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375234584937" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Model/Data/RooftopData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375222303972" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dealer-Previews/cache/53/dc/1ef74d4efa64d6b939eef8568b23.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375117492869" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/Controller/RooftopController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375217092539" ignored="false" />
+    <file path="/RooftopController.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375217090966" ignored="false" />
+    <file path="/PermissionLogic.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375200570053" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/rooftop_read_about.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375207240429" ignored="false" />
+    <file path="/rooftop_read_about.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375207102955" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/config/parameters.yml" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375219766918" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375234073391" ignored="false" />
+    <file path="/RooftopData.php" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375222303279" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/rooftop_read_offers.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375222586103" ignored="false" />
+    <file path="/rooftop_read_offers.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375222524340" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/image_manage.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375219564436" ignored="false" />
+    <file path="/image_manage.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375219562079" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_plugin.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375234215550" ignored="false" />
+    <file path="/dashboard_index_plugin.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375234010916" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_user.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375227105163" ignored="false" />
+    <file path="/dashboard_index_user.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375227226434" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_users.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375227226434" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_activitystream.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375234720760" ignored="false" />
+    <file path="/dashboard_index_activitystream.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375234172255" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_reporting.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375233673333" ignored="false" />
+    <file path="/dashboard_index_reporting.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375233672535" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_config.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375233337594" ignored="false" />
+    <file path="/dashboard_index_config.html.twig" changelist="18951dba-e759-4c28-896f-ac408c987a76" time="1375233329089" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,19 +98,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AcmeDemoExtension.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/DependencyInjection/AcmeDemoExtension.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="623" selection-end="623" vertical-scroll-proportion="-11.875">
+            <state line="22" column="0" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -114,18 +128,7 @@
       <file leaf-file-name="JobType.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Form/JobType.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="38" selection-start="663" selection-end="663" vertical-scroll-proportion="-13.125">
-              <folding>
-                <element signature="e#41#81#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Job.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Job.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="17" selection-start="1200" selection-end="1200" vertical-scroll-proportion="-11.25">
+            <state line="21" column="38" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -140,19 +143,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/layout.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="25" selection-start="805" selection-end="805" vertical-scroll-proportion="-6.58">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Category.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="7" selection-start="175" selection-end="175" vertical-scroll-proportion="-10.0">
+            <state line="16" column="7" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -161,7 +155,34 @@
       <file leaf-file-name="JobController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/JobController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="49" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.5553822">
+            <state line="178" column="5" selection-start="4998" selection-end="4998" vertical-scroll-proportion="0.46177846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/layout.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="30" selection-start="870" selection-end="871" vertical-scroll-proportion="-9.489796">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/layout.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="74" selection-start="1020" selection-end="1020" vertical-scroll-proportion="-2.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Job.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Job.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="97" column="17" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -234,7 +255,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -521,110 +541,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Acme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jobeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jobeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Acme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jobeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jobeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Acme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jobeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jobeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Acme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DependencyInjection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jobeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jobeet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -649,10 +565,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="PublishConfig" serverName="jobeet" serverId="cbda99e1-d52f-4c27-854c-f627ac6a4dc1">
     <servers>
@@ -682,6 +600,9 @@
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="cbda99e1-d52f-4c27-854c-f627ac6a4dc1" server_name="jobeet">
@@ -719,7 +640,7 @@
       <window_info id="Code Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.67112595" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CollabNet Tools" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="DatabaseBrowser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.67112595" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18890075" sideWeight="0.7982163" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18890075" sideWeight="0.7982163" order="0" side_tool="false" content_ui="combo" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.6008919" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -804,13 +725,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="0.08746356" />
@@ -818,9 +732,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="51" selection-start="782" selection-end="782" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="18" column="51" selection-start="782" selection-end="782" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/config/routing/job.yml">
@@ -842,7 +754,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/DependencyInjection/AcmeDemoExtension.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="623" selection-end="623" vertical-scroll-proportion="-11.875">
+        <state line="22" column="0" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -861,40 +773,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="25" selection-start="805" selection-end="805" vertical-scroll-proportion="-6.58">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/cache/prod/doctrine/orm/Proxies/__CG__EnsJobeetBundleEntityCategory.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="47" selection-start="2681" selection-end="2681" vertical-scroll-proportion="1.450858">
-          <folding />
-        </state>
+        <state line="98" column="47" selection-start="2681" selection-end="2681" vertical-scroll-proportion="1.450858" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="7" selection-start="175" selection-end="175" vertical-scroll-proportion="-10.0">
+        <state line="16" column="7" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Entity/Job.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="17" selection-start="1200" selection-end="1200" vertical-scroll-proportion="-11.25">
+        <state line="97" column="17" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Form/JobType.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="38" selection-start="663" selection-end="663" vertical-scroll-proportion="-13.125">
-          <folding>
-            <element signature="e#41#81#0" expanded="true" />
-          </folding>
+        <state line="21" column="38" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -905,9 +806,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="30" selection-start="870" selection-end="871" vertical-scroll-proportion="-9.489796">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="74" selection-start="1020" selection-end="1020" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ens/JobeetBundle/Controller/JobController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="49" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.5553822">
+        <state line="178" column="5" selection-start="4998" selection-end="4998" vertical-scroll-proportion="0.46177846">
           <folding />
         </state>
       </provider>
